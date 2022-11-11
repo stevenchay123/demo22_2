@@ -1,2 +1,3 @@
 baris pertama di lokal
-tambah baris dua di remote
+tambah baris dua di remote tambah kata di lokal
+tambah baris tiga di lokal

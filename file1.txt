@@ -1,3 +1,4 @@
 baris satu di lokal
-baris dua di lokal
+baris dua di lokal, diedit di lokal
 tambah baris tiga di remote
+baris empat di lokal
