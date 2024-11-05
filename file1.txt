@@ -1,0 +1,4 @@
+baris 1 di lokal tambah di remote
+baris 2 di lokal
+tulis di remote
+tambah lagi di lokal
