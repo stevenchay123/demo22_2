@@ -1,0 +1,3 @@
+baris di lokal
+tambah di remote edit di lokal ke 2
+tambah di lokal ke 2
